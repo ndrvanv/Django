@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2872a49b-84c8-4c41-9dd8-c2e53ed12836" name="Changes" comment="first homework">
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/create_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/delete_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/fake_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/get_all_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/get_post_by_author_id.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/get_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/my_command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/update_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myproject/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
