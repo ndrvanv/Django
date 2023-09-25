@@ -45,3 +45,27 @@ class Post(models.Model):
     def get_summary(self):
         words = self.content.split()
         return f'{" ".join(words[:8])}...'
+
+
+# Домашняя работа ко второму семинару
+
+class Client(models.Model):
+    name = models.CharField(max_length=100)
+    email = models.EmailField()
+    phone_number = models.IntegerField()
+    client_address = models.TextField()
+    data_registration_client = models.DateField()
+
+class Goods(models.Model):
+    product_name = models.CharField(max_length=100)
+    description = models.TextField()
+    price = models.DecimalField(max_digits=8, decimal_places=2)
+    quantity_of_goods = models.IntegerField()
+    data_added = models.DateField()
+
+class Ord(models.Model):
+    client = models.ForeignKey(Client, on_delete=models.CASCADE)
+    goods = models.ForeignKey(Goods, on_delete=models.CASCADE)
+    total_price = models.DecimalField(max_digits=8, decimal_places=2)
+    data_added = models.DateField()
+    order_date = models.DateField()

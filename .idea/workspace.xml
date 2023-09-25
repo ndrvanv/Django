@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2872a49b-84c8-4c41-9dd8-c2e53ed12836" name="Changes" comment="first homework">
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/create_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/delete_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/fake_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/get_all_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/get_post_by_author_id.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/get_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/my_command.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/update_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+    <list default="true" id="2872a49b-84c8-4c41-9dd8-c2e53ed12836" name="Changes" comment="second lection">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/myproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myapp2/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myapp2/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +35,7 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/1311103/OneDrive/Рабочий стол/stepik&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
@@ -82,6 +71,21 @@
       <option name="presentableId" value="Default" />
       <updated>1695069224360</updated>
     </task>
+    <task id="LOCAL-00001" summary="second lection">
+      <created>1695411265094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695411265094</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second lection">
+      <created>1695411281036</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695411281036</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second lection" />
+    <option name="LAST_COMMIT_MESSAGE" value="second lection" />
   </component>
 </project>
