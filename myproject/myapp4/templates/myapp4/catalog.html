@@ -1,0 +1,18 @@
+{% extends 'base_temp.html' %}
+{% load static %}
+{% block title %} Каталог {% endblock %}
+{% block content %}
+    {% for product in products %}
+    <div>
+        <a href="{% url 'product' product.pk %}">
+            <img style="max-width: 150px" src="{{ product.img.url}}" alt="">
+        </a>
+        <div>
+            <a href="{% url 'product' product.pk %}"> {{ product.name }}</a>
+            <div>
+                <h5>$ {{ product.price }}</h5>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+{% endblock %}

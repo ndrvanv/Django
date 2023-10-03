@@ -1,0 +1,13 @@
+{% extends 'base_temp.html' %}
+{% block content %}
+    <h2>Загрузите изображение</h2>
+    {% if not answer %}
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Загрузить</button>
+    </form>
+    {% else %}
+       {{ answer }}
+    {% endif %}
+{% endblock %}
