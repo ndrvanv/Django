@@ -6,7 +6,11 @@ from django.http import HttpResponse, JsonResponse
 from django.views import View
 from django.views.generic import TemplateView
 from django.shortcuts import render, get_object_or_404
+<<<<<<< HEAD
 from myproject.myapp2.models import Order, User
+=======
+from myproject.myapp2.models import Order, User,
+>>>>>>> origin/main
 
 
 from .models import Author, Post

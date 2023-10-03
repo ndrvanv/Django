@@ -40,7 +40,10 @@ INSTALLED_APPS = [
     'myapp',
     'myapp2',
     'myapp3',
+<<<<<<< HEAD
     'myapp4',
+=======
+>>>>>>> origin/main
 ]
 
 MIDDLEWARE = [

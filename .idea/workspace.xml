@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="2872a49b-84c8-4c41-9dd8-c2e53ed12836" name="Changes" comment="third homework">
       <change afterPath="$PROJECT_DIR$/myproject/myapp4/forms.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myproject/myapp4/templates/myapp4/many_fields_form.html" afterDir="false" />
@@ -11,6 +12,22 @@
       <change afterPath="$PROJECT_DIR$/myproject/myapp4/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myproject/myapp3/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myapp3/views.py" afterDir="false" />
+=======
+    <list default="true" id="2872a49b-84c8-4c41-9dd8-c2e53ed12836" name="Changes" comment="second homework">
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/management/commands/fill_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/templates/myapp3/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/templates/myapp3/author_posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/templates/myapp3/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/templates/myapp3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/templates/myapp3/my_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/templates/myapp3/post_full.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/templates/myapp3/templ_for.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/templates/myapp3/templ_if.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> origin/main
       <change beforePath="$PROJECT_DIR$/myproject/myproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myproject/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myproject/myproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myproject/urls.py" afterDir="false" />
     </list>
@@ -105,6 +122,7 @@
       <option name="project" value="LOCAL" />
       <updated>1695666905458</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00005" summary="third homework">
       <created>1695829440272</created>
       <option name="number" value="00005" />
@@ -113,6 +131,9 @@
       <updated>1695829440272</updated>
     </task>
     <option name="localTasksCounter" value="6" />
+=======
+    <option name="localTasksCounter" value="5" />
+>>>>>>> origin/main
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,7 +156,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second lection" />
     <MESSAGE value="second homework" />
+<<<<<<< HEAD
     <MESSAGE value="third homework" />
     <option name="LAST_COMMIT_MESSAGE" value="third homework" />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="second homework" />
+>>>>>>> origin/main
   </component>
 </project>
